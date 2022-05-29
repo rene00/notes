@@ -1,4 +1,4 @@
 = Wiki =
- * [[Home Lab]] 
+ * [Home Lab](./lab.md)
  * [[k3s]]
  * [[Python]]
